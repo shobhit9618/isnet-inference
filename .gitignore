@@ -1,0 +1,13 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+
+.DS_Store
+__pycache__/
+.pytest_cache/
+.coverage
+outputs/
+*.tar.gz
+*.pth
+*.pt
